@@ -17,7 +17,10 @@
   <img align="center" src="https://img.shields.io/badge/Figma-2C2C2C?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
-
+- ❤️ Apaixonado por tecnologia
+- 📚 Sempre disposto a aprender
+- 🎓 Cursando Analise e desenvolvimento de sistemas 
+- 🌱 Atualmente estudando ReactJS
 
 ## Contatos 
 

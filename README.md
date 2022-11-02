@@ -1,6 +1,8 @@
-# Olá, me chamo José Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoseLima04/da1d3e81bd153d8bce5c472cd2299eae/raw/7ee9223b7610afc50403a7bac170b71ba3cb959d/githubcard.svg"/>
 
-<div align="center">
+<h1 align= "left"> Olá, me chamo José Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseLima04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLima04&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>

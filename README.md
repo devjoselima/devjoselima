@@ -1,10 +1,10 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/devjoselima/da1d3e81bd153d8bce5c472cd2299eae/raw/7ee9223b7610afc50403a7bac170b71ba3cb959d/githubcard.svg">
 
+<h1 align="left"> Olá, me chamo José Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br/><br/>
 
-<h1 align="center"> Olá, me chamo José Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br/><br/>
-
-<div display="flex" flex-direction="row">
-  <img height="230px" src="https://github-readme-stats.vercel.app/api?username=devjoselima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoselima&layout=demo&langs_count=7&theme=tokyonight"/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoselima&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img heigt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoselima&layout=compact&theme=tokyonight"/>  
 </div>
 
 ## Tecnologias e ferramentas que eu uso no meu dia

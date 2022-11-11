@@ -21,10 +21,10 @@
   
 </div><br/>
 
-- ❤️ Apaixonado por tecnologia
-- 📚 Sempre disposto a aprender
-- 🎓 Cursando Analise e desenvolvimento de sistemas 
-- 🌱 Atualmente estudando ReactJS
+- ❤️ Apaixonado por tecnologia.
+- 📚 Sempre disposto a aprender.
+- 🎓 Cursando Analise e desenvolvimento de sistemas .
+- 🌱 Atualmente estudando ReactJS.
 
 ## Contatos 
 

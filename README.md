@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/devjoselima/da1d3e81bd153d8bce5c472cd2299eae/raw/6e09efba81e9384ea584110c29581310a7222deb/githubcard.svg">
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/devjoselima/7c3eca731b8f6e64252e2341bd4338ed/raw/752dedb64c30935fe85039edab2922a42aab654a/githubcard.svg">
 
 <h1 align="left"> Olá, me chamo José Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br/><br/>
 
@@ -24,7 +24,7 @@
 
 - ❤️ Apaixonado por tecnologia.
 - 📚 Sempre disposto a aprender.
-- 🎓 Cursando Analise e desenvolvimento de sistemas .
+- 🎓 Cursando Sistemas de Informação.
 - 🌱 Atualmente estudando ReactJS.
 
 ## ✉️ Contatos 

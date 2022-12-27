@@ -23,7 +23,7 @@
 </div><br/>
 
 - ❤️ Apaixonado por tecnologia.
-- 📚 Sempre disposto a aprender.
+- 📚 Buscando sempre novas soluções com programaação todo dia.
 - 🎓 Cursando Sistemas de Informação.
 - 🌱 Atualmente estudando React.
 

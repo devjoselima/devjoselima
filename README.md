@@ -1,24 +1,20 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/devjoselima/7c3eca731b8f6e64252e2341bd4338ed/raw/752dedb64c30935fe85039edab2922a42aab654a/githubcard.svg">
 
-<h1 align="left"> Olá, me chamo José Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br/><br/>
+<h1 align="left"> Olá, me chamo José Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
+
+  <blockquote>Meu nome é José e eu tenho 18 anos.Atualmente atualmente meu foco é na área de front-end mas desejo me tornar full-stack no futuro, amo aprender novas tecnologias e passar o dia codando❤️ </blockquote>
+ 
+ ## Sobre mim
+* ❤️ Apaixonado por tecnologia.
+* 📚 Buscando sempre novas soluções com programação todo dia.
+* 🎓 Cursando Sistemas de Informação.
+* 🌱 Atualmente estudando ReactJS.
+<br/><br/>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoselima&count_private=true&show_icons=true&theme=tokyonight"/>
   <img heigt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoselima&layout=compact&theme=tokyonight"/>  
 </div>
-  
-  
- ## Sobre mim
-  <blockquote>Meu nome é José e eu tenho 18 anos.Atualmente atualmente meu foco é na área de front-end mas desejo me tornar full-stack no futuro, amo aprender novas tecnologias e passar o dia codando❤️ </blockquote>
-  
-<ul>
-   <li>❤️ Apaixonado por tecnologia.</li>
-   <li>📚 Buscando sempre novas soluções com programação todo dia.</li>
-   <li>🎓 Cursando Sistemas de Informação.</li>
-   <li>🌱 Atualmente estudando ReactJS.</li>
-</ul>
-
-
 
 
 

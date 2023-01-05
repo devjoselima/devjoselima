@@ -5,7 +5,6 @@
 
   <blockquote>Meu nome é José e eu tenho 18 anos.Atualmente atualmente meu foco é na área de front-end mas desejo me tornar full-stack no futuro, amo aprender novas tecnologias e passar o dia codando❤️ </blockquote>
  
- ## Sobre mim
 * ❤️ Apaixonado por tecnologia.
 * 📚 Buscando sempre novas soluções com programação todo dia.
 * 🎓 Cursando Sistemas de Informação.

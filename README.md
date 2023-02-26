@@ -8,7 +8,7 @@
 * ❤️ Apaixonado por tecnologia.
 * 📚 Buscando sempre novas soluções com programação todo dia.
 * 🎓 Cursando Sistemas de Informação.
-* 🌱 Atualmente estudando ReactJS.
+* 🌱 Atualmente estudando Bootstrap.
 <br/><br/>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoselima&count_private=true&show_icons=true&theme=tokyonight"/>

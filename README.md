@@ -38,8 +38,8 @@
 
 ## Contatos 
 
-<a href = "mailto:jalimag0206@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:devjoselima04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jose-limag/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://portfolio-rose-eight-40.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-202024?style=for-the-badge&logo=Color=white" target="_blank"></a>
+<a href="https://portfolio-v2-bay-psi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-202024?style=for-the-badge&logo=Color=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/JoseLima04/JoseLima04/blob/output/github-contribution-grid-snake.svg)

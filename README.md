@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=3000&color=FFFFFF&center=false&vCenter=true&random=false&width=435&height=25&lines=Hello!+Call+me+Jose+Lima%F0%9F%91%8B" />
 </h1>
 
-<img align="right" src="https://github.com/devjoselima/devjoselima/assets/111407140/d6f80463-6b8a-43e8-be12-17160055aae4" width="350px">
+<img align="right" src="https://github.com/devjoselima/devjoselima/assets/111407140/d6f80463-6b8a-43e8-be12-17160055aae4" width="300px">
 
 My first contact with programming was when I was 16 years old during my high school, creating projects with PHP & MySQL. When I was 18, I decided to delve deeper and dive into this incredible world.
 

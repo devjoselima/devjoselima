@@ -1,4 +1,4 @@
-<h1> Hello, you call me José Lima👋</h1>
+<h1> Hello, call me José Lima👋</h1>
 
 <img align="right" src="https://github.com/devjoselima/devjoselima/assets/111407140/d6f80463-6b8a-43e8-be12-17160055aae4" min-width="350px" max-width="350px" width="350px" align="right">
 

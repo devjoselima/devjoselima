@@ -30,4 +30,3 @@
 <a href="https://www.linkedin.com/in/jose-limag/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://portfolio-v2-bay-psi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-202024?style=for-the-badge&logo=Color=white" target="_blank"></a>
 
-![Snake animation](https://github.com/devjoselima/devjoselima/blob/output/github-contribution-grid-snake.svg)

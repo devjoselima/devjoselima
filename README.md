@@ -1,4 +1,3 @@
-
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=2000&pause=3000&color=FFFFFF&center=false&vCenter=true&random=false&width=435&height=25&lines=Hello!+Call+me+Jose+Lima%F0%9F%91%8B" />
 </h1>
@@ -8,9 +7,6 @@
 <p align="left">My first contact with programming was when I was 16 years old during my high school, creating projects with PHP & MySQL. When I was 18, I decided to delve deeper and dive into this incredible world.</p>
 
 <p align="left">Currently, I'm graduating in Sistemas de Informação at Universidade Veiga de Almeida, which I started in 02/2023. My goal is always to learn new things about this world and be the best version of myself.</p>
-
-<br />
-
 
 <h2 align="left">💻 Techs</h2>
 
@@ -28,7 +24,6 @@
   <img  alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img  alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> 
 </div>
-<br/>
 
 ## 📫 Contact
 

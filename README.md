@@ -5,9 +5,9 @@
 
 <img align="right" src="https://github.com/devjoselima/devjoselima/assets/111407140/d6f80463-6b8a-43e8-be12-17160055aae4" width="300px">
 
-My first contact with programming was when I was 16 years old during my high school, creating projects with PHP & MySQL. When I was 18, I decided to delve deeper and dive into this incredible world.
+<p align="left">My first contact with programming was when I was 16 years old during my high school, creating projects with PHP & MySQL. When I was 18, I decided to delve deeper and dive into this incredible world.</p>
 
-Currently, I'm graduating in Sistemas de Informação at Universidade Veiga de Almeida, which I started in 02/2023. My goal is always to learn new things about this world and be the best version of myself.
+<p align="left">Currently, I'm graduating in Sistemas de Informação at Universidade Veiga de Almeida, which I started in 02/2023. My goal is always to learn new things about this world and be the best version of myself.</p>
 
 <br />
 

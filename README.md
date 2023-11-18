@@ -7,7 +7,7 @@
 
 <p align="left">My first contact with programming was when I was 16 years old during my high school, creating projects with PHP & MySQL. When I was 18, I decided to delve deeper and dive into this incredible world.</p>
 
-<p align="left">Currently, I'm graduating in Sistemas de Informação at Universidade Veiga de Almeida, which I started in 02/2023. My goal is always to learn new things about this world and be the best version of myself.</p>
+<p align="left">Currently, I'm graduating in Sistemas de Informação at Universidade Veiga de Almeida, which I started in Februrary 2023. My goal is always to learn new things about this world and be the best version of myself.</p>
 
 <br /><br />
 <h2 align="left">💻 Techs</h2>

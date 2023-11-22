@@ -40,4 +40,10 @@
 <a href="https://portfolio-v2-bay-psi.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-202024?style=for-the-badge&logo=Color=white" target="_blank">
 </a>
+<br /><br />
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoselima&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoselima&layout=compact&theme=tokyonight"/>  
+</div>
 

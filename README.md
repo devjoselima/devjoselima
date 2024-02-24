@@ -10,7 +10,7 @@
 <p align="left">Currently, I'm graduating in Sistemas de Informação at Universidade Veiga de Almeida, which I started in Februrary 2023. My goal is always to learn new things about this world and be the best version of myself.</p>
 
 <br /><br />
-<h2 align="left">💻 Tech's</h2>
+<h2 align="left">💻 Tech</h2>
 
 <div style="display: inline_block" >
   <img  alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
